@@ -1,2 +1,2 @@
-# Spark-twitter-analysis-udemy
+# Sentiment analysis
 Twitter sentiment analysis
